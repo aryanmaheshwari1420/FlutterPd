@@ -4,6 +4,16 @@ A Flutter application that displays characters from the
 [Rick and Morty API](https://rickandmortyapi.com/) with offline support
 and clean architecture.
 
+## Screenshots
+
+<p align="center">
+  <img src="img1.jpg" width="200" />
+  <img src="img2.jpg" width="200" />
+  <img src="img3.jpg" width="200" />
+  <img src="img4.jpg" width="200" />
+</p>
+
+
 ## Features
 
 - Clean Architecture (Domain, Data, Presentation)
