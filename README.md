@@ -7,12 +7,11 @@ and clean architecture.
 ## Screenshots
 
 <p align="center">
-  <img src="img1.jpg" width="200" />
-  <img src="img2.jpg" width="200" />
-  <img src="img3.jpg" width="200" />
-  <img src="img4.jpg" width="200" />
+  <img src="img1.jpeg" width="200" />
+  <img src="img2.jpeg" width="200" />
+  <img src="img3.jpeg" width="200" />
+  <img src="img4.jpeg" width="200" />
 </p>
-
 
 ## Features
 
